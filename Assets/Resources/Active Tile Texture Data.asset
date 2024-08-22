@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40ad649855549c14ebfcbefe9b591978, type: 3}
+  m_Name: Active Tile Texture Data
+  m_EditorClassIdentifier: 
+  tresholdValue: 100
+  activeTileTextures:
+  - texture: {fileID: 21300000, guid: 544e7ce23cc81da4fa2724969400592d, type: 3}
+    tileColor: 1
+  - texture: {fileID: 21300000, guid: 62f8f4130705af045872c053fe9039eb, type: 3}
+    tileColor: 2
+  - texture: {fileID: 21300000, guid: 43027eaf3dde2d24ca07c1b4274652ad, type: 3}
+    tileColor: 3
+  - texture: {fileID: 21300000, guid: 196870ba17633d44ba4012683dd970dd, type: 3}
+    tileColor: 4
+  - texture: {fileID: 21300000, guid: 6ad8ed4fb3c9b9048a8f8775eaaec2dc, type: 3}
+    tileColor: 5
+  - texture: {fileID: 21300000, guid: 66693637b2ab2034f9a7dfca4797f248, type: 3}
+    tileColor: 6
+  - texture: {fileID: 21300000, guid: ad0ad31d6907ba94881362c301a07721, type: 3}
+    tileColor: 7
+  - texture: {fileID: 21300000, guid: 949a601dd48062747bc0c4861d33ff2a, type: 3}
+    tileColor: 8
+  currentColor: 1
